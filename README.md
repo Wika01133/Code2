@@ -19,7 +19,7 @@ Example:
 As a result, we will obtain information about the calculated square area and the volume of the cube.
 
 
-# Polish
+Polish
 Functionality:
 Program Code2 służy do wyświetlenia wyników obliczeń pola powierzchni kwadratu oraz objętości sześcianu na podstawie ich boków. Parametrem wejściowym podawanym w linii poleceń jest wielkość boku (wartość numeryczna całkowita).
 
