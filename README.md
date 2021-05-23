@@ -1,4 +1,5 @@
 # Code2
+# English
 Functionality:
 Code2 is used to display the calculation results of the square area and the cube volume. The input parameter on the command line is the side size (integer numeric value).
 
@@ -19,7 +20,7 @@ Example:
 As a result, we will obtain information about the calculated square area and the volume of the cube.
 
 
-Polish
+# Polish
   
 Funkcjonalność:
 Program Code2 służy do wyświetlenia wyników obliczeń pola powierzchni kwadratu oraz objętości sześcianu na podstawie ich boków. Parametrem wejściowym podawanym w linii poleceń jest wielkość boku (wartość numeryczna całkowita).
